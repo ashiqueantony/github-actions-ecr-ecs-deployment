@@ -3,7 +3,7 @@
 # ECR-ECS Deployment 
 ## GitHub Actions as CI/CD for the ECR-ECS Deployment via Terraform as IaC
 
-[![Docker Build and Push](https://github.com/ajish-antony/github-actions-ecr-ecs-deployment/actions/workflows/main.yml/badge.svg)](https://github.com/ajish-antony/github-actions-ecr-ecs-deployment/actions/workflows/main.yml)
+
 
 ## Description
 
@@ -289,5 +289,5 @@ Here, I have created a sample CI/CD deployment to ECS via ECR using GitHub Actio
 ### ⚙️ Connect with Me
 
 <p align="center">
-<a href="mailto:ajishantony95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ajish-antony/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="ashikantony321@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="www.linkedin.com/in/iamashiqueantony"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
